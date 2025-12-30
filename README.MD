@@ -25,8 +25,8 @@ This project follows a modular data science structure to ensure reproducibility 
 │   └── viz_theme.py        # Standardized visualization styles
 |   └── README.md           # Project documentation
 ├── requirements.txt        # Environment dependencies
+```
 ---
-
 ### 💼 The Business Challenge
 * **The Leakage Problem:** The Parlor lacked visibility into *when* clients were dropping off, leading to thousands in unrealized revenue.
 * **The Acquisition Problem:** Marketing resources were being spent on high-volume but low-value channels like Facebook Ads.
