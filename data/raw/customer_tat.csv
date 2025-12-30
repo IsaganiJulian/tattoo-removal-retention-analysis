@@ -1,0 +1,213 @@
+﻿Client_ID,Session_ID,Session_Type,Session_Date,Days_Since_Prior,Client_Gender,Client_Age,Treatment_Area,Lidocaine_Used,Session_Cost,Client_Status,Reason_for_Removal,Source_Channel,Tattoo_Age_Yrs,Tattoo_Location
+101,1,First Session,1/5/24,0,Female,32,Medium Area,TRUE,450,Dropped Off,Regret/Aesthetic,Google Search,5,Wrist
+102,1,First Session,1/10/24,0,Male,45,Small Area,FALSE,275,Dropped Off,Cover Up Prep,Tattoo Artist Ref,12,Bicep
+103,1,First Session,1/12/24,0,Female,28,Large Area,TRUE,700,Dropped Off,Career Advancement,Instagram Ad,3,Neck
+104,1,First Session,1/15/24,0,Male,38,Small Spot,FALSE,175,Dropped Off,Regret/Aesthetic,Word of Mouth,8,Hand
+105,1,First Session,1/20/24,0,Non-Binary,25,Small Area,TRUE,325,Dropped Off,Cover Up Prep,Google Search,2,Ankle
+106,1,Repeat,1/22/24,0,Female,51,Medium Area,FALSE,400,Active,Regret/Aesthetic,Facebook Ad,15,Shoulder
+106,2,Repeat,3/1/24,39,Female,51,Medium Area,FALSE,400,Active,Regret/Aesthetic,Facebook Ad,15,Shoulder
+106,3,Repeat,4/20/24,50,Female,51,Medium Area,FALSE,400,Completed,Regret/Aesthetic,Facebook Ad,15,Shoulder
+106,4,Repeat,6/5/24,46,Female,52,Medium Area,FALSE,400,Completed,Regret/Aesthetic,Facebook Ad,15,Shoulder
+106,5,Repeat,7/20/24,45,Female,52,Medium Area,FALSE,400,Completed,Regret/Aesthetic,Facebook Ad,15,Shoulder
+106,6,Repeat,9/1/24,43,Female,52,Medium Area,FALSE,400,Completed,Regret/Aesthetic,Facebook Ad,15,Shoulder
+106,7,Repeat,10/15/24,44,Female,52,Medium Area,FALSE,400,Completed,Regret/Aesthetic,Facebook Ad,15,Shoulder
+106,8,Repeat,11/28/24,44,Female,52,Medium Area,FALSE,400,Completed,Regret/Aesthetic,Facebook Ad,15,Shoulder
+107,1,Repeat,1/25/24,0,Male,30,Small Area,TRUE,325,Active,Cover Up Prep,Tattoo Artist Ref,4,Calf
+107,2,Repeat,3/10/24,45,Male,30,Small Area,TRUE,325,Active,Cover Up Prep,Tattoo Artist Ref,4,Calf
+107,3,Repeat,4/25/24,46,Male,30,Small Area,TRUE,325,Active,Cover Up Prep,Tattoo Artist Ref,4,Calf
+107,4,Repeat,6/15/24,51,Male,30,Small Area,TRUE,325,Active,Cover Up Prep,Tattoo Artist Ref,4,Calf
+107,5,Repeat,7/30/24,45,Male,30,Small Area,TRUE,325,Active,Cover Up Prep,Tattoo Artist Ref,4,Calf
+107,6,Repeat,9/10/24,42,Male,31,Small Area,TRUE,325,Active,Cover Up Prep,Tattoo Artist Ref,4,Calf
+108,1,Repeat,1/28/24,0,Female,35,Large Area,FALSE,600,Active,Career Advancement,Google Search,7,Forearm
+108,2,Repeat,3/15/24,47,Female,35,Large Area,FALSE,600,Active,Career Advancement,Google Search,7,Forearm
+108,3,Repeat,5/1/24,47,Female,35,Large Area,FALSE,600,Active,Career Advancement,Google Search,7,Forearm
+108,4,Repeat,6/20/24,50,Female,35,Large Area,FALSE,600,Completed,Career Advancement,Google Search,7,Forearm
+108,5,Repeat,8/5/24,46,Female,35,Large Area,FALSE,600,Completed,Career Advancement,Google Search,7,Forearm
+108,6,Repeat,9/20/24,46,Female,36,Large Area,FALSE,600,Completed,Career Advancement,Google Search,7,Forearm
+109,1,First Session,2/1/24,0,Male,29,Medium Area,TRUE,450,Dropped Off,Regret/Aesthetic,Instagram Ad,1,Chest
+110,1,First Session,2/5/24,0,Female,22,Small Area,FALSE,275,Dropped Off,Cover Up Prep,Word of Mouth,6,Shoulder
+111,1,Repeat,2/10/24,0,Male,48,Small Spot,TRUE,200,Active,Regret/Aesthetic,Tattoo Artist Ref,10,Hand
+111,2,Repeat,3/25/24,44,Male,48,Small Spot,TRUE,200,Active,Regret/Aesthetic,Tattoo Artist Ref,10,Hand
+111,3,Repeat,5/10/24,46,Male,48,Small Spot,TRUE,200,Completed,Regret/Aesthetic,Tattoo Artist Ref,10,Hand
+111,4,Repeat,6/25/24,46,Male,48,Small Spot,TRUE,200,Completed,Regret/Aesthetic,Tattoo Artist Ref,10,Hand
+111,5,Repeat,8/10/24,46,Male,48,Small Spot,TRUE,200,Completed,Regret/Aesthetic,Tattoo Artist Ref,10,Hand
+111,6,Repeat,9/25/24,46,Male,49,Small Spot,TRUE,200,Completed,Regret/Aesthetic,Tattoo Artist Ref,10,Hand
+112,1,First Session,2/15/24,0,Female,37,Large Area,FALSE,600,Dropped Off,Career Advancement,Google Search,5,Full Sleeve
+113,1,Repeat,2/20/24,0,Male,55,Medium Area,TRUE,450,Active,Cover Up Prep,Facebook Ad,13,Back
+113,2,Repeat,4/5/24,45,Male,55,Medium Area,TRUE,450,Active,Cover Up Prep,Facebook Ad,13,Back
+113,3,Repeat,5/20/24,45,Male,55,Medium Area,TRUE,450,Dropped Off,Cover Up Prep,Facebook Ad,13,Back
+114,1,Repeat,2/25/24,0,Female,29,Small Area,FALSE,275,Active,Regret/Aesthetic,Instagram Ad,1,Ankle
+114,2,Repeat,4/10/24,45,Female,29,Small Area,FALSE,275,Active,Regret/Aesthetic,Instagram Ad,1,Ankle
+114,3,Repeat,5/25/24,45,Female,29,Small Area,FALSE,275,Active,Regret/Aesthetic,Instagram Ad,1,Ankle
+114,4,Repeat,7/10/24,46,Female,29,Small Area,FALSE,275,Active,Regret/Aesthetic,Instagram Ad,1,Ankle
+114,5,Repeat,8/25/24,46,Female,29,Small Area,FALSE,275,Active,Regret/Aesthetic,Instagram Ad,1,Ankle
+114,6,Repeat,10/10/24,46,Female,29,Small Area,FALSE,275,Active,Regret/Aesthetic,Instagram Ad,1,Ankle
+114,7,Repeat,11/25/24,46,Female,29,Small Area,FALSE,275,Active,Regret/Aesthetic,Instagram Ad,1,Ankle
+115,1,Repeat,3/1/24,0,Male,41,Large Area,TRUE,700,Active,Cover Up Prep,Tattoo Artist Ref,10,Chest
+115,2,Repeat,4/15/24,45,Male,41,Large Area,TRUE,700,Active,Cover Up Prep,Tattoo Artist Ref,10,Chest
+115,3,Repeat,6/1/24,47,Male,41,Large Area,TRUE,700,Active,Cover Up Prep,Tattoo Artist Ref,10,Chest
+115,4,Repeat,7/15/24,44,Male,41,Large Area,TRUE,700,Active,Cover Up Prep,Tattoo Artist Ref,10,Chest
+115,5,Repeat,9/1/24,48,Male,41,Large Area,TRUE,700,Active,Cover Up Prep,Tattoo Artist Ref,10,Chest
+115,6,Repeat,10/15/24,44,Male,41,Large Area,TRUE,700,Active,Cover Up Prep,Tattoo Artist Ref,10,Chest
+115,7,Repeat,12/1/24,47,Male,41,Large Area,TRUE,700,Active,Cover Up Prep,Tattoo Artist Ref,10,Chest
+116,1,Repeat,3/5/24,0,Female,33,Small Spot,FALSE,175,Active,Regret/Aesthetic,Google Search,6,Forearm
+116,2,Repeat,4/20/24,46,Female,33,Small Spot,FALSE,175,Active,Regret/Aesthetic,Google Search,6,Forearm
+116,3,Repeat,6/5/24,46,Female,33,Small Spot,FALSE,175,Active,Regret/Aesthetic,Google Search,6,Forearm
+116,4,Repeat,7/20/24,45,Female,33,Small Spot,FALSE,175,Active,Regret/Aesthetic,Google Search,6,Forearm
+116,5,Repeat,9/5/24,47,Female,34,Small Spot,FALSE,175,Active,Regret/Aesthetic,Google Search,6,Forearm
+117,1,First Session,3/10/24,0,Male,26,Medium Area,FALSE,400,Dropped Off,Cover Up Prep,Word of Mouth,3,Calf
+118,1,Repeat,3/15/24,0,Female,39,Small Area,TRUE,325,Active,Regret/Aesthetic,Facebook Ad,1,Hand
+118,2,Repeat,5/1/24,47,Female,39,Small Area,TRUE,325,Dropped Off,Regret/Aesthetic,Facebook Ad,1,Hand
+119,1,Repeat,3/20/24,0,Female,44,Large Area,FALSE,600,Active,Career Advancement,Google Search,18,Back
+119,2,Repeat,5/5/24,46,Female,44,Large Area,FALSE,600,Active,Career Advancement,Google Search,18,Back
+119,3,Repeat,6/20/24,46,Female,44,Large Area,FALSE,600,Completed,Career Advancement,Google Search,18,Back
+119,4,Repeat,8/5/24,46,Female,44,Large Area,FALSE,600,Completed,Career Advancement,Google Search,18,Back
+119,5,Repeat,9/20/24,46,Female,44,Large Area,FALSE,600,Completed,Career Advancement,Google Search,18,Back
+119,6,Repeat,11/5/24,46,Female,44,Large Area,FALSE,600,Completed,Career Advancement,Google Search,18,Back
+120,1,Repeat,3/25/24,0,Non-Binary,30,Small Spot,TRUE,200,Active,Cover Up Prep,Instagram Ad,7,Foot
+120,2,Repeat,5/10/24,46,Non-Binary,30,Small Spot,TRUE,200,Active,Cover Up Prep,Instagram Ad,7,Foot
+120,3,Repeat,6/25/24,46,Non-Binary,30,Small Spot,TRUE,200,Active,Cover Up Prep,Instagram Ad,7,Foot
+120,4,Repeat,8/10/24,46,Non-Binary,30,Small Spot,TRUE,200,Active,Cover Up Prep,Instagram Ad,7,Foot
+120,5,Repeat,9/25/24,46,Non-Binary,30,Small Spot,TRUE,200,Active,Cover Up Prep,Instagram Ad,7,Foot
+120,6,Repeat,11/10/24,46,Non-Binary,30,Small Spot,TRUE,200,Active,Cover Up Prep,Instagram Ad,7,Foot
+121,1,Repeat,4/1/24,0,Female,27,Small Area,FALSE,275,Active,Regret/Aesthetic,Word of Mouth,1,Wrist
+121,2,Repeat,5/15/24,44,Female,27,Small Area,FALSE,275,Dropped Off,Regret/Aesthetic,Word of Mouth,1,Wrist
+122,1,Repeat,4/5/24,0,Male,50,Medium Area,TRUE,450,Active,Cover Up Prep,Tattoo Artist Ref,20,Upper Arm
+122,2,Repeat,5/20/24,45,Male,50,Medium Area,TRUE,450,Active,Cover Up Prep,Tattoo Artist Ref,20,Upper Arm
+122,3,Repeat,7/5/24,46,Male,50,Medium Area,TRUE,450,Active,Cover Up Prep,Tattoo Artist Ref,20,Upper Arm
+122,4,Repeat,8/20/24,46,Male,50,Medium Area,TRUE,450,Active,Cover Up Prep,Tattoo Artist Ref,20,Upper Arm
+122,5,Repeat,10/5/24,46,Male,50,Medium Area,TRUE,450,Active,Cover Up Prep,Tattoo Artist Ref,20,Upper Arm
+123,1,First Session,4/10/24,0,Female,31,Large Area,TRUE,700,Dropped Off,Career Advancement,Google Search,4,Forearm
+124,1,Repeat,4/15/24,0,Male,40,Small Spot,FALSE,175,Active,Regret/Aesthetic,Facebook Ad,9,Hand
+124,2,Repeat,5/30/24,45,Male,40,Small Spot,FALSE,175,Active,Regret/Aesthetic,Facebook Ad,9,Hand
+124,3,Repeat,7/15/24,46,Male,40,Small Spot,FALSE,175,Active,Regret/Aesthetic,Facebook Ad,9,Hand
+124,4,Repeat,8/30/24,46,Male,40,Small Spot,FALSE,175,Active,Regret/Aesthetic,Facebook Ad,9,Hand
+124,5,Repeat,10/15/24,46,Male,40,Small Spot,FALSE,175,Active,Regret/Aesthetic,Facebook Ad,9,Hand
+124,6,Repeat,11/30/24,46,Male,40,Small Spot,FALSE,175,Active,Regret/Aesthetic,Facebook Ad,9,Hand
+125,1,Repeat,4/20/24,0,Female,49,Medium Area,FALSE,400,Active,Cover Up Prep,Tattoo Artist Ref,11,Thigh
+125,2,Repeat,6/5/24,46,Female,49,Medium Area,FALSE,400,Active,Cover Up Prep,Tattoo Artist Ref,11,Thigh
+125,3,Repeat,7/20/24,45,Female,49,Medium Area,FALSE,400,Active,Cover Up Prep,Tattoo Artist Ref,11,Thigh
+125,4,Repeat,9/5/24,47,Female,49,Medium Area,FALSE,400,Active,Cover Up Prep,Tattoo Artist Ref,11,Thigh
+125,5,Repeat,10/20/24,45,Female,49,Medium Area,FALSE,400,Active,Cover Up Prep,Tattoo Artist Ref,11,Thigh
+126,1,First Session,4/25/24,0,Male,24,Small Area,TRUE,325,Dropped Off,Career Advancement,Word of Mouth,2,Neck
+127,1,Repeat,5/1/24,0,Female,36,Large Area,TRUE,700,Active,Regret/Aesthetic,Instagram Ad,8,Full Sleeve
+127,2,Repeat,6/15/24,45,Female,36,Large Area,TRUE,700,Active,Regret/Aesthetic,Instagram Ad,8,Full Sleeve
+127,3,Repeat,7/30/24,45,Female,36,Large Area,TRUE,700,Active,Regret/Aesthetic,Instagram Ad,8,Full Sleeve
+127,4,Repeat,9/15/24,47,Female,36,Large Area,TRUE,700,Active,Regret/Aesthetic,Instagram Ad,8,Full Sleeve
+128,1,Repeat,5/5/24,0,Male,52,Small Spot,FALSE,175,Active,Cover Up Prep,Tattoo Artist Ref,10,Upper Arm
+128,2,Repeat,6/20/24,46,Male,52,Small Spot,FALSE,175,Active,Cover Up Prep,Tattoo Artist Ref,10,Upper Arm
+128,3,Repeat,8/5/24,46,Male,52,Small Spot,FALSE,175,Active,Cover Up Prep,Tattoo Artist Ref,10,Upper Arm
+128,4,Repeat,9/20/24,46,Male,52,Small Spot,FALSE,175,Active,Cover Up Prep,Tattoo Artist Ref,10,Upper Arm
+128,5,Repeat,11/5/24,46,Male,52,Small Spot,FALSE,175,Active,Cover Up Prep,Tattoo Artist Ref,10,Upper Arm
+129,1,First Session,5/10/24,0,Female,29,Medium Area,TRUE,450,Dropped Off,Regret/Aesthetic,Google Search,3,Back
+130,1,Repeat,5/15/24,0,Male,34,Small Area,FALSE,275,Active,Cover Up Prep,Tattoo Artist Ref,6,Forearm
+130,2,Repeat,7/1/24,47,Male,34,Small Area,FALSE,275,Active,Cover Up Prep,Tattoo Artist Ref,6,Forearm
+130,3,Repeat,8/15/24,45,Male,34,Small Area,FALSE,275,Active,Cover Up Prep,Tattoo Artist Ref,6,Forearm
+130,4,Repeat,10/1/24,47,Male,34,Small Area,FALSE,275,Active,Cover Up Prep,Tattoo Artist Ref,6,Forearm
+130,5,Repeat,11/15/24,45,Male,34,Small Area,FALSE,275,Active,Cover Up Prep,Tattoo Artist Ref,6,Forearm
+131,1,Repeat,5/20/24,0,Female,41,Large Area,TRUE,700,Active,Career Advancement,Facebook Ad,10,Neck
+131,2,Repeat,7/5/24,46,Female,41,Large Area,TRUE,700,Dropped Off,Career Advancement,Facebook Ad,10,Neck
+132,1,Repeat,5/25/24,0,Male,47,Small Spot,TRUE,200,Active,Regret/Aesthetic,Word of Mouth,14,Shoulder
+132,2,Repeat,7/10/24,46,Male,47,Small Spot,TRUE,200,Active,Regret/Aesthetic,Word of Mouth,14,Shoulder
+132,3,Repeat,8/25/24,46,Male,47,Small Spot,TRUE,200,Active,Regret/Aesthetic,Word of Mouth,14,Shoulder
+132,4,Repeat,10/10/24,46,Male,47,Small Spot,TRUE,200,Active,Regret/Aesthetic,Word of Mouth,14,Shoulder
+133,1,Repeat,6/1/24,0,Female,30,Medium Area,FALSE,400,Active,Cover Up Prep,Tattoo Artist Ref,3,Bicep
+133,2,Repeat,7/15/24,44,Female,30,Medium Area,FALSE,400,Active,Cover Up Prep,Tattoo Artist Ref,3,Bicep
+133,3,Repeat,8/28/24,44,Female,30,Medium Area,FALSE,400,Active,Cover Up Prep,Tattoo Artist Ref,3,Bicep
+133,4,Repeat,10/10/24,43,Female,30,Medium Area,FALSE,400,Active,Cover Up Prep,Tattoo Artist Ref,3,Bicep
+133,5,Repeat,11/25/24,46,Female,30,Medium Area,FALSE,400,Active,Cover Up Prep,Tattoo Artist Ref,3,Bicep
+134,1,First Session,6/5/24,0,Male,27,Small Area,TRUE,325,Dropped Off,Regret/Aesthetic,Instagram Ad,1,Hand
+135,1,Repeat,6/10/24,0,Female,43,Large Area,FALSE,600,Active,Career Advancement,Google Search,16,Forearm
+135,2,Repeat,7/25/24,45,Female,43,Large Area,FALSE,600,Dropped Off,Career Advancement,Google Search,16,Forearm
+136,1,Repeat,6/15/24,0,Non-Binary,36,Small Spot,FALSE,175,Active,Cover Up Prep,Tattoo Artist Ref,5,Foot
+136,2,Repeat,7/30/24,45,Non-Binary,36,Small Spot,FALSE,175,Active,Cover Up Prep,Tattoo Artist Ref,5,Foot
+136,3,Repeat,9/15/24,47,Non-Binary,36,Small Spot,FALSE,175,Active,Cover Up Prep,Tattoo Artist Ref,5,Foot
+136,4,Repeat,11/1/24,47,Non-Binary,36,Small Spot,FALSE,175,Active,Cover Up Prep,Tattoo Artist Ref,5,Foot
+137,1,Repeat,6/20/24,0,Female,24,Medium Area,TRUE,450,Active,Regret/Aesthetic,Instagram Ad,2,Thigh
+137,2,Repeat,8/5/24,46,Female,24,Medium Area,TRUE,450,Active,Regret/Aesthetic,Instagram Ad,2,Thigh
+137,3,Repeat,9/20/24,46,Female,24,Medium Area,TRUE,450,Active,Regret/Aesthetic,Instagram Ad,2,Thigh
+137,4,Repeat,11/5/24,46,Female,24,Medium Area,TRUE,450,Active,Regret/Aesthetic,Instagram Ad,2,Thigh
+138,1,First Session,6/25/24,0,Male,50,Small Area,FALSE,275,Dropped Off,Cover Up Prep,Facebook Ad,19,Calf
+139,1,Repeat,7/1/24,0,Female,38,Large Area,TRUE,700,Active,Career Advancement,Google Search,12,Neck
+139,2,Repeat,8/15/24,45,Female,38,Large Area,TRUE,700,Active,Career Advancement,Google Search,12,Neck
+139,3,Repeat,9/30/24,46,Female,38,Large Area,TRUE,700,Active,Career Advancement,Google Search,12,Neck
+139,4,Repeat,11/15/24,46,Female,38,Large Area,TRUE,700,Active,Career Advancement,Google Search,12,Neck
+140,1,Repeat,7/5/24,0,Male,25,Small Spot,TRUE,200,Active,Regret/Aesthetic,Word of Mouth,4,Hand
+140,2,Repeat,8/20/24,46,Male,25,Small Spot,TRUE,200,Active,Regret/Aesthetic,Word of Mouth,4,Hand
+140,3,Repeat,10/5/24,46,Male,25,Small Spot,TRUE,200,Active,Regret/Aesthetic,Word of Mouth,4,Hand
+140,4,Repeat,11/20/24,46,Male,25,Small Spot,TRUE,200,Active,Regret/Aesthetic,Word of Mouth,4,Hand
+141,1,First Session,7/10/24,0,Female,46,Medium Area,FALSE,400,Dropped Off,Cover Up Prep,Tattoo Artist Ref,11,Back
+142,1,Repeat,7/15/24,0,Male,31,Small Area,TRUE,325,Active,Career Advancement,Facebook Ad,1,Forearm
+142,2,Repeat,9/1/24,48,Male,31,Small Area,TRUE,325,Dropped Off,Career Advancement,Facebook Ad,1,Forearm
+143,1,Repeat,7/20/24,0,Female,23,Large Area,FALSE,600,Active,Regret/Aesthetic,Instagram Ad,2,Bicep
+143,2,Repeat,9/5/24,47,Female,23,Large Area,FALSE,600,Active,Regret/Aesthetic,Instagram Ad,2,Bicep
+143,3,Repeat,10/20/24,45,Female,23,Large Area,FALSE,600,Active,Regret/Aesthetic,Instagram Ad,2,Bicep
+143,4,Repeat,12/5/24,46,Female,23,Large Area,FALSE,600,Active,Regret/Aesthetic,Instagram Ad,2,Bicep
+144,1,First Session,7/25/24,0,Male,49,Small Spot,FALSE,175,Dropped Off,Cover Up Prep,Tattoo Artist Ref,17,Shoulder
+145,1,Repeat,8/1/24,0,Female,35,Medium Area,TRUE,450,Active,Career Advancement,Google Search,5,Wrist
+145,2,Repeat,9/15/24,45,Female,35,Medium Area,TRUE,450,Active,Career Advancement,Google Search,5,Wrist
+145,3,Repeat,10/30/24,45,Female,35,Medium Area,TRUE,450,Active,Career Advancement,Google Search,5,Wrist
+145,4,Repeat,12/15/24,46,Female,35,Medium Area,TRUE,450,Active,Career Advancement,Google Search,5,Wrist
+146,1,Repeat,8/5/24,0,Male,28,Small Area,FALSE,275,Active,Cover Up Prep,Tattoo Artist Ref,3,Forearm
+146,2,Repeat,9/20/24,46,Male,28,Small Area,FALSE,275,Active,Cover Up Prep,Tattoo Artist Ref,3,Forearm
+146,3,Repeat,11/5/24,46,Male,28,Small Area,FALSE,275,Active,Cover Up Prep,Tattoo Artist Ref,3,Forearm
+147,1,Repeat,8/10/24,0,Female,40,Large Area,FALSE,600,Active,Regret/Aesthetic,Facebook Ad,10,Thigh
+147,2,Repeat,9/25/24,46,Female,40,Large Area,FALSE,600,Active,Regret/Aesthetic,Facebook Ad,10,Thigh
+147,3,Repeat,11/10/24,46,Female,40,Large Area,FALSE,600,Active,Regret/Aesthetic,Facebook Ad,10,Thigh
+148,1,Repeat,8/15/24,0,Male,55,Small Spot,TRUE,200,Active,Cover Up Prep,Tattoo Artist Ref,20,Upper Arm
+148,2,Repeat,10/1/24,47,Male,55,Small Spot,TRUE,200,Active,Cover Up Prep,Tattoo Artist Ref,20,Upper Arm
+148,3,Repeat,11/15/24,45,Male,55,Small Spot,TRUE,200,Active,Cover Up Prep,Tattoo Artist Ref,20,Upper Arm
+149,1,First Session,8/20/24,0,Female,26,Medium Area,TRUE,450,Dropped Off,Career Advancement,Google Search,2,Neck
+150,1,Repeat,8/25/24,0,Male,33,Small Area,FALSE,275,Active,Regret/Aesthetic,Word of Mouth,7,Hand
+150,2,Repeat,10/10/24,46,Male,33,Small Area,FALSE,275,Active,Regret/Aesthetic,Word of Mouth,7,Hand
+150,3,Repeat,11/25/24,46,Male,33,Small Area,FALSE,275,Active,Regret/Aesthetic,Word of Mouth,7,Hand
+151,1,Repeat,9/1/24,0,Female,42,Large Area,TRUE,700,Active,Cover Up Prep,Tattoo Artist Ref,15,Back
+151,2,Repeat,10/15/24,44,Female,42,Large Area,TRUE,700,Active,Cover Up Prep,Tattoo Artist Ref,15,Back
+151,3,Repeat,11/30/24,46,Female,42,Large Area,TRUE,700,Active,Cover Up Prep,Tattoo Artist Ref,15,Back
+152,1,Repeat,9/5/24,0,Male,51,Small Spot,FALSE,175,Active,Regret/Aesthetic,Facebook Ad,11,Shoulder
+152,2,Repeat,10/20/24,45,Male,51,Small Spot,FALSE,175,Active,Regret/Aesthetic,Facebook Ad,11,Shoulder
+152,3,Repeat,12/5/24,46,Male,51,Small Spot,FALSE,175,Active,Regret/Aesthetic,Facebook Ad,11,Shoulder
+153,1,First Session,9/10/24,0,Female,37,Medium Area,TRUE,450,Dropped Off,Career Advancement,Google Search,4,Forearm
+154,1,Repeat,9/15/24,0,Male,30,Small Area,TRUE,325,Active,Cover Up Prep,Tattoo Artist Ref,2,Calf
+154,2,Repeat,11/1/24,47,Male,30,Small Area,TRUE,325,Active,Cover Up Prep,Tattoo Artist Ref,2,Calf
+155,1,First Session,9/20/24,0,Female,29,Large Area,FALSE,600,Dropped Off,Regret/Aesthetic,Instagram Ad,1,Bicep
+156,1,Repeat,9/25/24,0,Male,44,Small Spot,TRUE,200,Active,Cover Up Prep,Word of Mouth,13,Upper Arm
+156,2,Repeat,11/10/24,46,Male,44,Small Spot,TRUE,200,Active,Cover Up Prep,Word of Mouth,13,Upper Arm
+157,1,Repeat,10/1/24,0,Female,32,Medium Area,FALSE,400,Active,Regret/Aesthetic,Facebook Ad,6,Thigh
+157,2,Repeat,11/15/24,45,Female,32,Medium Area,FALSE,400,Active,Regret/Aesthetic,Facebook Ad,6,Thigh
+158,1,First Session,10/5/24,0,Male,26,Small Area,TRUE,325,Active,Career Advancement,Google Search,3,Hand
+159,1,First Session,10/10/24,0,Female,45,Large Area,TRUE,700,Active,Cover Up Prep,Tattoo Artist Ref,19,Back
+160,1,First Session,10/15/24,0,Male,50,Small Spot,FALSE,175,Active,Regret/Aesthetic,Word of Mouth,7,Shoulder
+161,1,First Session,10/20/24,0,Female,28,Medium Area,TRUE,450,Active,Cover Up Prep,Instagram Ad,1,Ankle
+162,1,First Session,10/25/24,0,Male,39,Small Area,FALSE,275,Active,Career Advancement,Facebook Ad,10,Forearm
+163,1,First Session,11/1/24,0,Female,34,Large Area,TRUE,700,Active,Regret/Aesthetic,Google Search,2,Neck
+164,1,First Session,11/5/24,0,Male,43,Small Spot,TRUE,200,Active,Cover Up Prep,Tattoo Artist Ref,11,Bicep
+165,1,First Session,11/10/24,0,Female,25,Medium Area,FALSE,400,Active,Career Advancement,Word of Mouth,3,Wrist
+166,1,First Session,11/15/24,0,Male,29,Small Area,TRUE,325,Active,Regret/Aesthetic,Instagram Ad,1,Hand
+167,1,First Session,11/20/24,0,Female,48,Large Area,FALSE,600,Active,Cover Up Prep,Tattoo Artist Ref,16,Back
+168,1,First Session,11/25/24,0,Male,53,Small Spot,FALSE,175,Active,Regret/Aesthetic,Facebook Ad,14,Shoulder
+169,1,First Session,12/1/24,0,Female,31,Medium Area,TRUE,450,Active,Career Advancement,Google Search,5,Forearm
+170,1,First Session,12/5/24,0,Male,36,Small Area,FALSE,275,Active,Cover Up Prep,Tattoo Artist Ref,9,Calf
+171,1,First Session,12/10/24,0,Female,23,Large Area,TRUE,700,Active,Regret/Aesthetic,Instagram Ad,1,Full Sleeve
+172,1,First Session,12/15/24,0,Male,40,Small Spot,TRUE,200,Active,Cover Up Prep,Word of Mouth,10,Upper Arm
+173,1,Repeat,1/28/24,0,Female,30,Small Area,FALSE,275,Active,Regret/Aesthetic,Facebook Ad,2,Wrist
+173,2,Repeat,3/10/24,42,Female,30,Small Area,FALSE,275,Dropped Off,Regret/Aesthetic,Facebook Ad,2,Wrist
+174,1,Repeat,2/15/24,0,Male,45,Medium Area,TRUE,450,Active,Cover Up Prep,Tattoo Artist Ref,15,Back
+174,2,Repeat,3/30/24,44,Male,45,Medium Area,TRUE,450,Dropped Off,Cover Up Prep,Tattoo Artist Ref,15,Back
+175,1,Repeat,3/5/24,0,Female,29,Small Spot,TRUE,200,Active,Career Advancement,Google Search,5,Hand
+175,2,Repeat,4/18/24,44,Female,29,Small Spot,TRUE,200,Active,Career Advancement,Google Search,5,Hand
+175,3,Repeat,6/3/24,46,Female,29,Small Spot,TRUE,200,Active,Career Advancement,Google Search,5,Hand
+175,4,Repeat,7/20/24,47,Female,29,Small Spot,TRUE,200,Active,Career Advancement,Google Search,5,Hand
+175,5,Repeat,9/5/24,47,Female,30,Small Spot,TRUE,200,Active,Career Advancement,Google Search,5,Hand
+176,1,Repeat,4/20/24,0,Male,37,Large Area,FALSE,600,Active,Cover Up Prep,Tattoo Artist Ref,10,Full Sleeve
+176,2,Repeat,6/5/24,46,Male,37,Large Area,FALSE,600,Active,Cover Up Prep,Tattoo Artist Ref,10,Full Sleeve
+176,3,Repeat,7/20/24,45,Male,37,Large Area,FALSE,600,Active,Cover Up Prep,Tattoo Artist Ref,10,Full Sleeve
+176,4,Repeat,9/5/24,47,Male,37,Large Area,FALSE,600,Active,Cover Up Prep,Tattoo Artist Ref,10,Full Sleeve
+177,1,Repeat,5/10/24,0,Female,41,Medium Area,TRUE,450,Active,Regret/Aesthetic,Instagram Ad,8,Thigh
+177,2,Repeat,6/25/24,46,Female,41,Medium Area,TRUE,450,Active,Regret/Aesthetic,Instagram Ad,8,Thigh
+177,3,Repeat,8/10/24,46,Female,41,Medium Area,TRUE,450,Dropped Off,Regret/Aesthetic,Instagram Ad,8,Thigh
+178,1,First Session,6/1/24,0,Male,22,Small Area,FALSE,275,Dropped Off,Career Advancement,Facebook Ad,1,Hand
+179,1,Repeat,7/5/24,0,Female,33,Large Area,TRUE,700,Active,Cover Up Prep,Tattoo Artist Ref,6,Back
+179,2,Repeat,8/20/24,46,Female,33,Large Area,TRUE,700,Active,Cover Up Prep,Tattoo Artist Ref,6,Back
+180,1,Repeat,8/15/24,0,Male,44,Small Spot,TRUE,200,Active,Regret/Aesthetic,Word of Mouth,12,Shoulder
+180,2,Repeat,9/30/24,46,Male,44,Small Spot,TRUE,200,Dropped Off,Regret/Aesthetic,Word of Mouth,12,Shoulder

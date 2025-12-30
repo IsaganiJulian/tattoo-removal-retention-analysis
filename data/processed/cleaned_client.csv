@@ -1,0 +1,81 @@
+Client_ID,LTV,Total_Sessions,Source_Channel,Client_Age,Days_Since_Prior
+101,450,1,Google Search,32.0,0.0
+102,275,1,Tattoo Artist Ref,45.0,0.0
+103,700,1,Instagram Ad,28.0,0.0
+104,175,1,Word of Mouth,38.0,0.0
+105,325,1,Google Search,25.0,0.0
+106,3200,8,Facebook Ad,51.625,38.875
+107,1950,6,Tattoo Artist Ref,30.166666666666668,38.166666666666664
+108,3600,6,Google Search,35.166666666666664,39.333333333333336
+109,450,1,Instagram Ad,29.0,0.0
+110,275,1,Word of Mouth,22.0,0.0
+111,1200,6,Tattoo Artist Ref,48.166666666666664,38.0
+112,600,1,Google Search,37.0,0.0
+113,1350,3,Facebook Ad,55.0,30.0
+114,1925,7,Instagram Ad,29.0,39.142857142857146
+115,4900,7,Tattoo Artist Ref,41.0,39.285714285714285
+116,875,5,Google Search,33.2,36.8
+117,400,1,Word of Mouth,26.0,0.0
+118,650,2,Facebook Ad,39.0,23.5
+119,3600,6,Google Search,44.0,38.333333333333336
+120,1200,6,Instagram Ad,30.0,38.333333333333336
+121,550,2,Word of Mouth,27.0,22.0
+122,2250,5,Tattoo Artist Ref,50.0,36.6
+123,700,1,Google Search,31.0,0.0
+124,1050,6,Facebook Ad,40.0,38.166666666666664
+125,2000,5,Tattoo Artist Ref,49.0,36.6
+126,325,1,Word of Mouth,24.0,0.0
+127,2800,4,Instagram Ad,36.0,34.25
+128,875,5,Tattoo Artist Ref,52.0,36.8
+129,450,1,Google Search,29.0,0.0
+130,1375,5,Tattoo Artist Ref,34.0,36.8
+131,1400,2,Facebook Ad,41.0,23.0
+132,800,4,Word of Mouth,47.0,34.5
+133,2000,5,Tattoo Artist Ref,30.0,35.4
+134,325,1,Instagram Ad,27.0,0.0
+135,1200,2,Google Search,43.0,22.5
+136,700,4,Tattoo Artist Ref,36.0,34.75
+137,1800,4,Instagram Ad,24.0,34.5
+138,275,1,Facebook Ad,50.0,0.0
+139,2800,4,Google Search,38.0,34.25
+140,800,4,Word of Mouth,25.0,34.5
+141,400,1,Tattoo Artist Ref,46.0,0.0
+142,650,2,Facebook Ad,31.0,24.0
+143,2400,4,Instagram Ad,23.0,34.5
+144,175,1,Tattoo Artist Ref,49.0,0.0
+145,1800,4,Google Search,35.0,34.0
+146,825,3,Tattoo Artist Ref,28.0,30.666666666666668
+147,1800,3,Facebook Ad,40.0,30.666666666666668
+148,600,3,Tattoo Artist Ref,55.0,30.666666666666668
+149,450,1,Google Search,26.0,0.0
+150,825,3,Word of Mouth,33.0,30.666666666666668
+151,2100,3,Tattoo Artist Ref,42.0,30.0
+152,525,3,Facebook Ad,51.0,30.333333333333332
+153,450,1,Google Search,37.0,0.0
+154,650,2,Tattoo Artist Ref,30.0,23.5
+155,600,1,Instagram Ad,29.0,0.0
+156,400,2,Word of Mouth,44.0,23.0
+157,800,2,Facebook Ad,32.0,22.5
+158,325,1,Google Search,26.0,0.0
+159,700,1,Tattoo Artist Ref,45.0,0.0
+160,175,1,Word of Mouth,50.0,0.0
+161,450,1,Instagram Ad,28.0,0.0
+162,275,1,Facebook Ad,39.0,0.0
+163,700,1,Google Search,34.0,0.0
+164,200,1,Tattoo Artist Ref,43.0,0.0
+165,400,1,Word of Mouth,25.0,0.0
+166,325,1,Instagram Ad,29.0,0.0
+167,600,1,Tattoo Artist Ref,48.0,0.0
+168,175,1,Facebook Ad,53.0,0.0
+169,450,1,Google Search,31.0,0.0
+170,275,1,Tattoo Artist Ref,36.0,0.0
+171,700,1,Instagram Ad,23.0,0.0
+172,200,1,Word of Mouth,40.0,0.0
+173,550,2,Facebook Ad,30.0,21.0
+174,900,2,Tattoo Artist Ref,45.0,22.0
+175,1000,5,Google Search,29.2,36.8
+176,2400,4,Tattoo Artist Ref,37.0,34.5
+177,1350,3,Instagram Ad,41.0,30.666666666666668
+178,275,1,Facebook Ad,22.0,0.0
+179,1400,2,Tattoo Artist Ref,33.0,23.0
+180,400,2,Word of Mouth,44.0,23.0
