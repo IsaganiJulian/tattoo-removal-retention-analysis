@@ -8,7 +8,7 @@
 This project follows a modular data science structure to ensure reproducibility and scalability as the analysis moves from EDA to Predictive Modeling.
 
 ```text
-├── data/
+|   |── data/
 │   ├── processed/          # Cleaned data and feature-engineered sets
 |   |── raw/                # Original, unaltered CSV logs  
 │   └── models/             # Future: Saved ML models (.pkl)
